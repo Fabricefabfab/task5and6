@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
-<html>  
+<html>
+<title>Brand</title>
 <body>
 
 <a href="brand.php" class="myButton">Check and Edit Brands</a><br><br>
